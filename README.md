@@ -4,7 +4,7 @@ Civil operations and inspections for roads, bridges, damns, site excavation for 
 The civil infrastructure services which Earthsteading Ltd. can provide you to prepare for your building project includes:
 
  - [x]  _Civil operation supervision and inspection_ of: off-grid road installation, including recyled plastic+bitumen roads and recycled concrete/brick roads;
- - [x]  retaining wall for private resevoirs, natural econological swimming pools/ponds and swales to retain stormwater;
+ - [x]  retaining wall for private resevoirs, natural ecologcal swimming pools/ponds and swales to retain stormwater;
  - [x]  site cuts, excavations and soil foundation stabalisation;
  - [x]  retaining walls for earth berms, basements and underground structures;
  - [x]  foundation soil preparation for concrete slab pours;
