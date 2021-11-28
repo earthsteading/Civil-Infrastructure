@@ -1,2 +1,3 @@
 # Shoring
- -[] lite box aluminium, trench boxes, drag boxes, hydraulic vertical shoring, close timber, soldier sets, aluminium shield, powerbrace, slide rails, etc
+ - [] prepare: trench dimensions, soil types, activity type
+ - [] lite box aluminium, trench boxes, drag boxes, hydraulic vertical shoring, close timber, soldier sets, aluminium shield, powerbrace, slide rails, etc
