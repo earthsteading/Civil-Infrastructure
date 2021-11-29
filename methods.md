@@ -22,4 +22,4 @@ Shoring standards
  - [] soil characteristics and relocation: top soil, clays/mud, stones/rocks/gravel (metamorphic, igneous, sedimentary), silts/sands, bituminous mix. 
  - [] machine loading: dozers, trucks, graders, scrapers, tractors, excavator, loaders, rollers, waterer, pavers, etc
  - [] hand signals for spotting: spreading, dumping, compaction, rolling, stop, length, measure etc
- - [] house keeping: safety, health, cleanup, maintenance, damage, reporting (logs, faults, hazards, incidents)
+ - [] house keeping: weather, safety, health, cleanup, maintenance, damage, reporting (logs, faults, hazards, incidents)
